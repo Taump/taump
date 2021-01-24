@@ -2,6 +2,6 @@
 
 I am a JavaScript developer from Krasnoyarsk
 
-I ❤️ React
+React + Redux = ❤️
 
 My email is [taump@yandex.ru](mailto:taump@yandex.ru)
