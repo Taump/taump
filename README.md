@@ -1,6 +1,6 @@
 ### Hello everyone
 
-I am a JavaScript developer from Krasnoyarsk
+I am a JavaScript developer
 
 My telegram is [@taump](http://t.me/taump)
 
